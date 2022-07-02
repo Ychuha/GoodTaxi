@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GoodTaxi</string>
+    <string name="remember_me">Remember my</string>
+    <string name="forgot_pass">Forgot Password ?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_account">Create a new account ?</string>
+    <string name="have">Have an account ?</string>
+    <string name="accept">I accept the terms of the agreement</string>
+    <string name="name">Ivanov Ivan</string>
+    <string name="city">Novosibirsk</string>
+    <string name="log">email</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+</resources>

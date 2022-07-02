@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/_1"
+    tools:context=".MainActivity3">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:background="@color/gray">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ellipse_4__8_"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="15dp"
+            android:contentDescription="@string/todo8" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/name"
+            android:textColor="#455A64" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="39dp"
+            android:text="@string/city"
+            android:textColor="#455A64" />
+
+        <ImageButton
+            android:id="@+id/btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="365dp"
+            android:layout_marginTop="3dp"
+            android:contentDescription="@string/todo9"
+            android:minWidth="48dp"
+            android:src="@drawable/group_2"
+            tools:ignore="SpeakableTextPresentCheck,DuplicateSpeakableTextCheck,ImageContrastCheck" />
+    </FrameLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/vector__4_"
+        android:layout_marginTop="350dp"
+        android:layout_marginStart="207dp"
+        android:contentDescription="@string/todo10" />
+
+</RelativeLayout>
